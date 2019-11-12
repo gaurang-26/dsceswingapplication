@@ -1,0 +1,7 @@
+create database mydatabase;
+
+use mydatabase;
+
+create table student(username varchar(30) not null,gender varchar(10),fathername varchar(30),passwrd varchar(20),confirmpasswrd varchar(30),city varchar(30),email varchar(30));
+
+endl;
